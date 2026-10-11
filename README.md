@@ -1,4 +1,4 @@
-# Minpro-3-PBO-ManajemenDaycare
+# Minpro-4-PBO-ManajemenDaycare
 
 ## Brendhen Canafaro Lie 2509116033 (Kelas A)
 
@@ -21,7 +21,8 @@ Program ini adalah pengembangan dari Mini Project 2, dengan tambahan abstract cl
 ## 2. Struktur Program
 
 <p align="center">
-    <img width="319" height="399" alt="image" src="https://github.com/user-attachments/assets/5123c08f-e9d2-4381-985d-d0c92b581e01" />
+    <img width="293" height="554" alt="image" src="https://github.com/user-attachments/assets/1143f4a4-7800-438a-96a6-ca303a9cb9c2" />
+    <img width="212" height="204" alt="image" src="https://github.com/user-attachments/assets/24848759-f81a-4c27-8800-8b9baa2896eb" />
 </p>
 
 | Package | Fungsi |
